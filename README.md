@@ -1,1 +1,1 @@
-# News-Summarizer
+# news_summarizer
